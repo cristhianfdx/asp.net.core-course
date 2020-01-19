@@ -1,0 +1,11 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\bin\Debug\netcoreapp2.1\Arreglos.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.csprojAssemblyReference.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\Arreglos\Arreglos\obj\Debug\netcoreapp2.1\Arreglos.pdb

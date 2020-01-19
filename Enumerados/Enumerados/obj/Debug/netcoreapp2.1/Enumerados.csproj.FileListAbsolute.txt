@@ -1,0 +1,11 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\bin\Debug\netcoreapp2.1\Enumerados.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\bin\Debug\netcoreapp2.1\Enumerados.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\bin\Debug\netcoreapp2.1\Enumerados.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\bin\Debug\netcoreapp2.1\Enumerados.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\bin\Debug\netcoreapp2.1\Enumerados.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.csprojAssemblyReference.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\Enumerados\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.pdb

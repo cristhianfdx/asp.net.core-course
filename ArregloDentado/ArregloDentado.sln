@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArregloDentado", "ArregloDentado\ArregloDentado.csproj", "{B9D3F6D3-DA11-4336-82E5-13F6CA16C418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D3F6D3-DA11-4336-82E5-13F6CA16C418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D3F6D3-DA11-4336-82E5-13F6CA16C418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D3F6D3-DA11-4336-82E5-13F6CA16C418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D3F6D3-DA11-4336-82E5-13F6CA16C418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD7EDF3-A61A-4DC5-A469-271706A9F60D}
+	EndGlobalSection
+EndGlobal

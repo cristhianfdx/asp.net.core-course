@@ -1,0 +1,10 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.pdb

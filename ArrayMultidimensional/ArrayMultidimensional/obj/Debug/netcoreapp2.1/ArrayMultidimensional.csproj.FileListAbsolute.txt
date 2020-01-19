@@ -1,0 +1,11 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\netcoreapp2.1\ArrayMultidimensional.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\netcoreapp2.1\ArrayMultidimensional.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\netcoreapp2.1\ArrayMultidimensional.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\netcoreapp2.1\ArrayMultidimensional.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\netcoreapp2.1\ArrayMultidimensional.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\netcoreapp2.1\ArrayMultidimensional.csprojAssemblyReference.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\netcoreapp2.1\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\netcoreapp2.1\ArrayMultidimensional.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\netcoreapp2.1\ArrayMultidimensional.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\netcoreapp2.1\ArrayMultidimensional.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\netcoreapp2.1\ArrayMultidimensional.pdb

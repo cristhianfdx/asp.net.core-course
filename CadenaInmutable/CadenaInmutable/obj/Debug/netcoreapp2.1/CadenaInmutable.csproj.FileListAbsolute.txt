@@ -1,0 +1,10 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\bin\Debug\netcoreapp2.1\CadenaInmutable.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\bin\Debug\netcoreapp2.1\CadenaInmutable.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\bin\Debug\netcoreapp2.1\CadenaInmutable.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\bin\Debug\netcoreapp2.1\CadenaInmutable.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\bin\Debug\netcoreapp2.1\CadenaInmutable.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\obj\Debug\netcoreapp2.1\CadenaInmutable.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\obj\Debug\netcoreapp2.1\CadenaInmutable.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\obj\Debug\netcoreapp2.1\CadenaInmutable.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\obj\Debug\netcoreapp2.1\CadenaInmutable.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\CadenaInmutable\CadenaInmutable\obj\Debug\netcoreapp2.1\CadenaInmutable.pdb

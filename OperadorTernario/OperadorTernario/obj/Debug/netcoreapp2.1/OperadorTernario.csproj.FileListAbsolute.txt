@@ -1,0 +1,11 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\bin\Debug\netcoreapp2.1\OperadorTernario.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\bin\Debug\netcoreapp2.1\OperadorTernario.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\bin\Debug\netcoreapp2.1\OperadorTernario.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\bin\Debug\netcoreapp2.1\OperadorTernario.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\bin\Debug\netcoreapp2.1\OperadorTernario.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\obj\Debug\netcoreapp2.1\OperadorTernario.csprojAssemblyReference.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\obj\Debug\netcoreapp2.1\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\obj\Debug\netcoreapp2.1\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\obj\Debug\netcoreapp2.1\OperadorTernario.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\obj\Debug\netcoreapp2.1\OperadorTernario.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\OperadorTernario\OperadorTernario\obj\Debug\netcoreapp2.1\OperadorTernario.pdb

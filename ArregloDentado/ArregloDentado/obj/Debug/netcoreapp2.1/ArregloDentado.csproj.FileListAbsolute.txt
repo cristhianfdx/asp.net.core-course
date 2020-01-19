@@ -1,0 +1,10 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\bin\Debug\netcoreapp2.1\ArregloDentado.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\bin\Debug\netcoreapp2.1\ArregloDentado.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\bin\Debug\netcoreapp2.1\ArregloDentado.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\bin\Debug\netcoreapp2.1\ArregloDentado.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\bin\Debug\netcoreapp2.1\ArregloDentado.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\obj\Debug\netcoreapp2.1\ArregloDentado.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\obj\Debug\netcoreapp2.1\ArregloDentado.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\obj\Debug\netcoreapp2.1\ArregloDentado.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\obj\Debug\netcoreapp2.1\ArregloDentado.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\ArregloDentado\ArregloDentado\obj\Debug\netcoreapp2.1\ArregloDentado.pdb

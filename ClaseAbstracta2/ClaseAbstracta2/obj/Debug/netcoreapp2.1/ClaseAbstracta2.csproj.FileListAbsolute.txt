@@ -1,0 +1,11 @@
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\netcoreapp2.1\ClaseAbstracta2.deps.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\netcoreapp2.1\ClaseAbstracta2.runtimeconfig.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\netcoreapp2.1\ClaseAbstracta2.runtimeconfig.dev.json
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\netcoreapp2.1\ClaseAbstracta2.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\bin\Debug\netcoreapp2.1\ClaseAbstracta2.pdb
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\netcoreapp2.1\ClaseAbstracta2.csprojAssemblyReference.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\netcoreapp2.1\ClaseAbstracta2.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\netcoreapp2.1\ClaseAbstracta2.AssemblyInfoInputs.cache
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\netcoreapp2.1\ClaseAbstracta2.AssemblyInfo.cs
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\netcoreapp2.1\ClaseAbstracta2.dll
+C:\Users\Cristhian Forero\Documents\CURSO C#\ClaseAbstracta2\ClaseAbstracta2\obj\Debug\netcoreapp2.1\ClaseAbstracta2.pdb
